@@ -1,2 +1,4 @@
-# nhs-prescription-data-analysis
-SQL‑based analysis of NHS prescription data, including cost optimisation, anomaly detection, and practice‑level insights.
+## Author
+Kikelomo Animashaun  
+MSc Data Science | Public-Sector Data & Information Professional  
+Manchester, UK
